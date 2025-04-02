@@ -5,7 +5,7 @@ const opciones = [
   { name: 'Inicio', href: '/', current: true },
   { name: 'Quienes somos', href: '/QSomos', current: false },
   { name: 'Servicios', href: '/Servicios', current: false },
-  { name: 'Contatos', href: '/Contactos', current: false },
+  { name: 'Productos', href: '/Productos', current: false },
   { name: 'Trabajos', href: '/Trabajos', current: false }
 
 ]
